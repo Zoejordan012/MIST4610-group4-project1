@@ -7,8 +7,7 @@
 
 # Data Dictionary
 
-![Screenshot](ScreenShot%2025-03-13%at%9.55.50%PM.png)
-
+![Screenshot](ScreenShot2025-03-13at9.55.50PM.png)
 
 
 
