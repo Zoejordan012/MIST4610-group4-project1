@@ -1,4 +1,18 @@
 # MIST4610-group4-project1
+
+# Team Name
+
+# 71552 Group 4
+
+# Team Members
+
+# Ashleigh Myers @ashleigh-myers
+# Daniel Ding @dd68158
+# Shraeyas Muthaiah @shraeyasam
+# Palak Kaur @palakxkaur 
+# Zoe Jordan @Zoejordan012
+
+
 # Problem Description
 # Our NFL database was created as a representation of a database that would aid the leaders or administrators of the football league to make critical, impactful decisions about the league, and facilitate management. It is comprised of key categories of information including the stadium, game, team, players, head coach, and tickets. The NFL is one of the biggest players in a huge sports and entertainment industry, and there is a huge amount of data that needs to be organized, managed, and utilized. Sports leagues constantly change in response to unfair treatment of players, unfair exploitation of rules by players and teams, or changing tastes of consumers. With our database, the league managers and its committees can interpret information to make informed decisions for the integrity, sustainability, and profitability of the league, and handle the tasks they are responsible for, including creating or changing rules, approving ownership changes, training game officials, integrate technology, ensure competitive balance, and maintain legitimacy and entertainment of the game.
 
@@ -18,12 +32,14 @@
 
 
 
+# QUERIES
 
 
 
-
-# 1 This query selects the coach's name, team name, and number of wins by joining the team and head coach table and selecting the coaches with wins above the average of other teams. This query is important to managers in the NFL for a variety of reasons. This can help evaluate the coaches' performance compared to their peers. This can be helpful when considering awards, brand deals/commercials, and hiring and recruitment. These high-performing coaches may be people that are more deserving of awards and certain brand deals. When other teams want to recruit coaches this may be a good way to find ones that are already preforming well at their current teams. 
+# 1 Get Coaches of Teams with Above Average Wins
 ![Screenshot](Screen%20Shot%202025-03-13%20at%209.57.23%20PM.png)
+# This query selects the coach's name, team name, and number of wins by joining the team and head coach table and selecting the coaches with wins above the average of other teams. This query is important to managers in the NFL for a variety of reasons. This can help evaluate the coaches' performance compared to their peers. This can be helpful when considering awards, brand deals/commercials, and hiring and recruitment. These high-performing coaches may be people that are more deserving of awards and certain brand deals. When other teams want to recruit coaches this may be a good way to find ones that are already preforming well at their current teams. 
+
 
 
 
