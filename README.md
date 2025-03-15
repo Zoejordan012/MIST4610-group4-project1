@@ -99,6 +99,7 @@
 # This query retrieves the game ID, date, winning team, stadium city, and total revenue generated from ticket sales for each game, ordering the results by total revenue in descending order. This would be important for the NFL because it helps identify the most profitable games, which could provide insights into factors that drive higher ticket sales. League officials, team owners, and marketers could use this information to analyze trends, such as which teams attract the most fans, which stadiums generate the most revenue, and which games are in the highest demand. This data could influence future scheduling decisions, ticket pricing strategies, and marketing efforts to maximize revenue. Additionally, it could help determine ideal locations for high-profile events like playoff games and the Super Bowl, ensuring the league maximizes profitability and fan engagement.
 
 
+# Database Information
 
 
 
