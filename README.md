@@ -43,6 +43,7 @@
 
 
 # 4 Teams with stadium capacity above average
+![Screenshot](Screen%20Shot%202025-03-14%20at%209.09.24%20PM.png)
 
 
 
