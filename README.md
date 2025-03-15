@@ -6,11 +6,11 @@
 
 # Team Members
 
-# Ashleigh Myers @ashleigh-myers
-# Daniel Ding @dd68158
-# Shraeyas Muthaiah @shraeyasam
-# Palak Kaur @palakxkaur 
-# Zoe Jordan @Zoejordan012
+## Ashleigh Myers @ashleigh-myers
+## Daniel Ding @dd68158
+## Shraeyas Muthaiah @shraeyasam
+## Palak Kaur @palakxkaur 
+## Zoe Jordan @Zoejordan012
 
 
 # Problem Description
