@@ -1,10 +1,10 @@
 # MIST4610-group4-project1
 
-# Team Name
+## Team Name
 
-# 71552 Group 4
+## 71552 Group 4
 
-# Team Members
+## Team Members
 
 ## Ashleigh Myers @ashleigh-myers
 ## Daniel Ding @dd68158
